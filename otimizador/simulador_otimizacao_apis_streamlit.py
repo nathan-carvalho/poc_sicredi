@@ -8,7 +8,7 @@ import streamlit as st
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT
+DATA_DIR = ROOT / "otimizador"
 
 API_ORDER = [
     "Comportamento Financeiro Digital",
