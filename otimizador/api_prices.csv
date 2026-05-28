@@ -1,0 +1,18 @@
+﻿api,nome_api,papel_analitico,faixa_min,faixa_max,valor_por_consulta
+comportamento_financeiro_digital,Comportamento Financeiro Digital,Sinal individual de maturidade financeira digital,1,10000,0.05
+comportamento_financeiro_digital,Comportamento Financeiro Digital,Sinal individual de maturidade financeira digital,10001,50000,0.048
+comportamento_financeiro_digital,Comportamento Financeiro Digital,Sinal individual de maturidade financeira digital,50001,100000,0.046
+comportamento_financeiro_digital,Comportamento Financeiro Digital,Sinal individual de maturidade financeira digital,100001,500000,0.044
+presenca_online,Presenca Online,Sinal individual de presenca digital geral,1,10000,0.05
+presenca_online,Presenca Online,Sinal individual de presenca digital geral,10001,50000,0.048
+presenca_online,Presenca Online,Sinal individual de presenca digital geral,50001,100000,0.046
+presenca_online,Presenca Online,Sinal individual de presenca digital geral,100001,500000,0.044
+passagens_web,Passagens pela Web,Sinal individual de recorrencia e historico web,1,10000,0.05
+passagens_web,Passagens pela Web,Sinal individual de recorrencia e historico web,10001,50000,0.048
+passagens_web,Passagens pela Web,Sinal individual de recorrencia e historico web,50001,100000,0.046
+passagens_web,Passagens pela Web,Sinal individual de recorrencia e historico web,100001,500000,0.044
+presenca_online_familiar,Presenca Online Familiar,Sinal contextual do nucleo familiar,1,10000,0.13
+presenca_online_familiar,Presenca Online Familiar,Sinal contextual do nucleo familiar,10001,50000,0.124
+presenca_online_familiar,Presenca Online Familiar,Sinal contextual do nucleo familiar,50001,100000,0.118
+presenca_online_familiar,Presenca Online Familiar,Sinal contextual do nucleo familiar,100001,500000,0.112
+presenca_online_familiar,Presenca Online Familiar,Sinal contextual do nucleo familiar,500001,1000000,0.106
