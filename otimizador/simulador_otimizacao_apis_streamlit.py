@@ -8,7 +8,7 @@ import streamlit as st
 
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "outputs" / "estudo_volumetria_api_externa_estabilidade"
+DATA_DIR = ROOT
 
 API_ORDER = [
     "Comportamento Financeiro Digital",
